@@ -1,0 +1,22 @@
+D:\Downloads\QLNS-master\QLNS-master\bin\Debug\QLNS.exe.config
+D:\Downloads\QLNS-master\QLNS-master\bin\Debug\QLNS.exe
+D:\Downloads\QLNS-master\QLNS-master\bin\Debug\QLNS.pdb
+D:\Downloads\QLNS-master\QLNS-master\obj\Debug\Buoi4.csproj.AssemblyReference.cache
+D:\Downloads\QLNS-master\QLNS-master\obj\Debug\QLNS.Form1.resources
+D:\Downloads\QLNS-master\QLNS-master\obj\Debug\QLNS.FormNhanVien.resources
+D:\Downloads\QLNS-master\QLNS-master\obj\Debug\QLNS.Properties.Resources.resources
+D:\Downloads\QLNS-master\QLNS-master\obj\Debug\Buoi4.csproj.GenerateResource.cache
+D:\Downloads\QLNS-master\QLNS-master\obj\Debug\Buoi4.csproj.CoreCompileInputs.cache
+D:\Downloads\QLNS-master\QLNS-master\obj\Debug\QLNS.exe
+D:\Downloads\QLNS-master\QLNS-master\obj\Debug\QLNS.pdb
+D:\Lap Trinh Tren Moi Truong Windows\Quan Li Nhan Su\Quan Li Nhan Su\bin\Debug\QLNS.exe.config
+D:\Lap Trinh Tren Moi Truong Windows\Quan Li Nhan Su\Quan Li Nhan Su\bin\Debug\QLNS.exe
+D:\Lap Trinh Tren Moi Truong Windows\Quan Li Nhan Su\Quan Li Nhan Su\bin\Debug\QLNS.pdb
+D:\Lap Trinh Tren Moi Truong Windows\Quan Li Nhan Su\Quan Li Nhan Su\obj\Debug\Buoi4.csproj.AssemblyReference.cache
+D:\Lap Trinh Tren Moi Truong Windows\Quan Li Nhan Su\Quan Li Nhan Su\obj\Debug\QLNS.Form1.resources
+D:\Lap Trinh Tren Moi Truong Windows\Quan Li Nhan Su\Quan Li Nhan Su\obj\Debug\QLNS.FormNhanVien.resources
+D:\Lap Trinh Tren Moi Truong Windows\Quan Li Nhan Su\Quan Li Nhan Su\obj\Debug\QLNS.Properties.Resources.resources
+D:\Lap Trinh Tren Moi Truong Windows\Quan Li Nhan Su\Quan Li Nhan Su\obj\Debug\Buoi4.csproj.GenerateResource.cache
+D:\Lap Trinh Tren Moi Truong Windows\Quan Li Nhan Su\Quan Li Nhan Su\obj\Debug\Buoi4.csproj.CoreCompileInputs.cache
+D:\Lap Trinh Tren Moi Truong Windows\Quan Li Nhan Su\Quan Li Nhan Su\obj\Debug\QLNS.exe
+D:\Lap Trinh Tren Moi Truong Windows\Quan Li Nhan Su\Quan Li Nhan Su\obj\Debug\QLNS.pdb

@@ -1,0 +1,11 @@
+D:\Downloads\QLNS-master\QLNS-master\bin\Debug\QLNS.exe.config
+D:\Downloads\QLNS-master\QLNS-master\bin\Debug\QLNS.exe
+D:\Downloads\QLNS-master\QLNS-master\bin\Debug\QLNS.pdb
+D:\Downloads\QLNS-master\QLNS-master\obj\Debug\QLNS.csproj.AssemblyReference.cache
+D:\Downloads\QLNS-master\QLNS-master\obj\Debug\QLNS.Form1.resources
+D:\Downloads\QLNS-master\QLNS-master\obj\Debug\QLNS.FormNhanVien.resources
+D:\Downloads\QLNS-master\QLNS-master\obj\Debug\QLNS.Properties.Resources.resources
+D:\Downloads\QLNS-master\QLNS-master\obj\Debug\QLNS.csproj.GenerateResource.cache
+D:\Downloads\QLNS-master\QLNS-master\obj\Debug\QLNS.csproj.CoreCompileInputs.cache
+D:\Downloads\QLNS-master\QLNS-master\obj\Debug\QLNS.exe
+D:\Downloads\QLNS-master\QLNS-master\obj\Debug\QLNS.pdb
